@@ -7,6 +7,8 @@ Refactored codebase to meet accessibility standards.
 -Applied start to css comments
 -Collected remaining styles
 -Applying semantic HTML. Learning new tags that were not included with lesson. (main nad aside)
+-Applied the main, aside and section elements
+
 
 ## ScreenShot:
 
