@@ -84,6 +84,8 @@ p {
 
 /* benefits style collected */ 
 .benefits {
+    position: relative;
+    margin-top: -960px;
     margin-right: 20px;
     padding: 20px;
     clear: both;
