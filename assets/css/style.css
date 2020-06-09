@@ -5,12 +5,12 @@
     margin: 0;
 }
 
-/* style the body */
+/* Body Styles */
 body {
     background-color: #d9dcd6;
 }
 
-/* style the header */
+/* Header Styles */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -44,7 +44,7 @@ header nav ul li {
     margin-left: 25px;
 }
 
-/* text styles collected */
+/* Text Styles */
 a {
     color: #ffffff;
     text-decoration: none;
@@ -54,7 +54,7 @@ p {
     font-size: 16px;
 }
 
-/* style the hero collected */
+/* Hero Styles */
 .hero {
     height: 800px;
     width: 100%;
@@ -64,7 +64,7 @@ p {
     background-position: center;
 }
 
-/* float section collected */
+/* Float Styles */
 .float-left {
     float: left;
     margin-right: 25px;
@@ -75,14 +75,14 @@ p {
     margin-left: 25px;
 }
 
-/* content */
+/* Content Style */
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
-/* benefits style collected */ 
+/* Benefits Styles */ 
 .benefits {
     position: relative;
     margin-top: -960px;
@@ -96,7 +96,7 @@ p {
     background-color: #2589bd;
 }
 
-/* benefit lead collected   */
+/* Benefit Customer Leads   */
 .benefit-lead {
     margin-bottom: 32px;
     color: #ffffff;
@@ -113,7 +113,7 @@ p {
     max-width: 150px;
 }
 
-/* benefit brand collected*/
+/* Benefit Brand Awareness*/
 .benefit-brand {
     margin-bottom: 32px;
     color: #ffffff;
@@ -131,7 +131,7 @@ p {
 }
 
 
-/* brand cost collected */
+/* Benefit Cost Management */
 .benefit-cost {
     margin-bottom: 32px;
     color: #ffffff;
@@ -148,7 +148,7 @@ p {
     text-align: center;
 }
 
-/* horiseon-services */
+/* Horiseon Services */
 .horiseon-services {
     margin-bottom: 20px;
     padding: 50px;
@@ -167,7 +167,7 @@ p {
     font-size: 36px;
 }
 
-/* style the footer */
+/* Footer Styles */
 .footer {
     padding: 30px;
     clear: both;

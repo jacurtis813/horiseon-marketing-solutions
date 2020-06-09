@@ -1,13 +1,13 @@
 # Description:
 Refactored codebase to meet accessibility standards.
 
--Applied title correction
--Applied Semantic HTML for header and nav
--Collected the styling to consolidate/ clean-up
--Applied start to css comments
--Collected remaining styles
--Applying semantic HTML. Learning new tags that were not included with lesson. (main nad aside)
--Applied the main, aside and section elements
+- Apply Title Correction
+- Apply Correct Semantic HTML
+- Collect CSS Styles
+- Begin CSS consolidating process
+- Apply Correct Comments to HTML
+- Apply Correct Comments to CSS
+- Apply 'new' Section elements (main and aside)
 
 
 ## ScreenShot:
