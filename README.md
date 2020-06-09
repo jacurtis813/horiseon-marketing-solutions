@@ -18,6 +18,7 @@ Refactored codebase to meet accessibility standards.
 - Correct img elements to the correct inline element
 - Review HTML elements and comments
 - Review CSS elements and comments
+- Applied the correction to ids
 
 # ScreenShot:
 
