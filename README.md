@@ -16,8 +16,10 @@ Refactored codebase to meet accessibility standards.
 - Correct spacing and formatting
 - Apply the alt attributes to all img
 - Correct img elements to the correct inline element
+- Review HTML elements and comments
+- Review CSS elements and comments
 
+# ScreenShot:
 
-## ScreenShot:
 
 ## Link:
