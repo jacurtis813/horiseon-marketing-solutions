@@ -1,4 +1,4 @@
-/* style all */
+/* Apply All Style */
 * {
     box-sizing: border-box;
     padding: 0;
@@ -6,11 +6,13 @@
 }
 
 /* Body Styles */
+
 body {
     background-color: #d9dcd6;
 }
 
 /* Header Styles */
+
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -45,6 +47,7 @@ header nav ul li {
 }
 
 /* Text Styles */
+
 a {
     color: #ffffff;
     text-decoration: none;
@@ -55,6 +58,7 @@ p {
 }
 
 /* Hero Styles */
+
 .hero {
     height: 800px;
     width: 100%;
@@ -65,6 +69,7 @@ p {
 }
 
 /* Float Styles */
+
 .float-left {
     float: left;
     margin-right: 25px;
@@ -75,14 +80,16 @@ p {
     margin-left: 25px;
 }
 
-/* Content Style */
-.content {
+/* Main Style */
+
+main {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
-/* Benefits Styles */ 
+/* Benefits Styles */
+
 .benefits {
     position: relative;
     margin-right: 20px;
@@ -95,59 +102,24 @@ p {
     background-color: #2589bd;
 }
 
-/* Benefit Customer Leads   */
-.benefit-lead {
+.benefits section {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
-.benefit-lead h3 {
+.benefits h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
-.benefit-lead img {
+.benefits img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
-}
-
-/* Benefit Brand Awareness*/
-.benefit-brand {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-.benefit-brand h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-.benefit-brand img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
-
-/* Benefit Cost Management */
-.benefit-cost {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-.benefit-cost img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
-.benefit-cost h3 {
-    margin-bottom: 10px;
-    text-align: center;
 }
 
 /* Horiseon Services */
+
 .horiseon-services {
     margin-bottom: 20px;
     padding: 50px;
@@ -167,6 +139,7 @@ p {
 }
 
 /* Footer Styles */
+
 .footer {
     padding: 30px;
     clear: both;

@@ -10,6 +10,8 @@ Refactored codebase to meet accessibility standards.
 - Apply 'new' Section elements (main and aside)
 - Apply section in place of div elements
 - Correct to Semantic HTML
+- Consolidate CSS rules
+- Apply Corrected Comments to CSS
 
 
 ## ScreenShot:
