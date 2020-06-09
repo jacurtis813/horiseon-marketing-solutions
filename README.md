@@ -12,6 +12,8 @@ Refactored codebase to meet accessibility standards.
 - Correct to Semantic HTML
 - Consolidate CSS rules
 - Apply Corrected Comments to CSS
+- Clean Up HTML class and id names
+- Correct spacing and formatting
 
 
 ## ScreenShot:
