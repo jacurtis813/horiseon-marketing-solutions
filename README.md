@@ -15,7 +15,7 @@ Refactored codebase to meet accessibility standards.
 - Review HTML and CSS elements
 
 ## ScreenShot:
-
+Screenshot (7).png
 
 ## Link:
-https://jacurtis813.github.io/horiseon-project/
+https://jacurtis813.github.io/horiseon-marketing-solutions/
